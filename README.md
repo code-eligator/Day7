@@ -1,2 +1,2 @@
 # Day7
-Data is in homework Branch.
+Thank you for coming!
